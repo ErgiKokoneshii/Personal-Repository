@@ -13,7 +13,7 @@ I am willing to work and learn on projects that are to connected to my fields of
 - 👯 I’m looking to collaborate on whatever projects I'm needed
 - 📫 How to reach me:<br>
   email - [ErgiKokoneshi](ergikokoneshi@gmail.com)<br>
-  linkedin - <a href="https://www.linkedin.com/in/ergi-kokoneshi-36a939281/?skipRedirect=true" target="_blank">Ergi Kokoneshi</a>
+  linkedin - <a href="https://www.linkedin.com/in/ergi-kokoneshi-36a939281" target="_blank">Ergi Kokoneshi</a>
 <!--
 **ErgiKokoneshi/ErgiKokoneshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
