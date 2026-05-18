@@ -11,9 +11,9 @@ Aside from C, I mostly use Java and am able to utilize the Java Springboot frame
 I am willing to work and learn on projects that are to connected to my fields of interest.
 
 - 👯 I’m looking to collaborate on whatever projects I'm needed
-- 📫 How to reach me:
-  email - ergikokoneshi@gmail.com
-  linkedin - Ergi Kokoneshi
+- 📫 How to reach me:<br>
+  email - [ErgiKokoneshi](ergikokoneshi@gmail.com)<br>
+  linkedin - [Ergi Kokoneshi](www.linkedin.com/in/ergi-kokoneshi-36a939281)
 <!--
 **ErgiKokoneshi/ErgiKokoneshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
