@@ -45,9 +45,10 @@ Live cards from [`bhXAiLt1s5`](https://leetcode.com/u/bhXAiLt1s5/) — currently
   <a href="https://leetcode.com/u/bhXAiLt1s5/">
     <img src="https://leetcard.jacoblin.cool/bhXAiLt1s5?theme=dark&font=Mulish&ext=heatmap" alt="LeetCode stats and heatmap for bhXAiLt1s5" />
   </a>
-  <br />
-  <img src="https://leetcard.jacoblin.cool/bhXAiLt1s5?theme=nord&font=Mulish&ext=activity" alt="LeetCode activity card" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ErgiKokoneshii&show_icons=true&theme=radical&hide_border=true&bg_color=071014&title_color=00babc&icon_color=7cf0d4&text_color=eef8f6" alt="GitHub stats" width="49%" />
+  <br /><br />
+  <a href="https://leetcode.com/u/bhXAiLt1s5/">
+    <img src="https://leetcard.jacoblin.cool/bhXAiLt1s5?theme=dark&font=Mulish&ext=activity" alt="LeetCode activity card for bhXAiLt1s5" />
+  </a>
 </div>
 
 ---
@@ -68,11 +69,3 @@ Live cards from [`bhXAiLt1s5`](https://leetcode.com/u/bhXAiLt1s5/) — currently
 
 **Advertising copywriter** — Fiverr · 2024.08.16 – 2024.10.01 · Tirana  
 Remote slogans and product copy for marketing sites.
-
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=ErgiKokoneshii&theme=radical&hide_border=true&background=071014&ring=00babc&fire=7cf0d4&currStreakLabel=00babc" alt="GitHub streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErgiKokoneshii&layout=compact&theme=radical&hide_border=true&bg_color=071014&title_color=00babc&text_color=eef8f6" alt="Top languages" />
-</div>
