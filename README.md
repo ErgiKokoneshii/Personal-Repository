@@ -39,7 +39,7 @@ I care about the part of programming that is usually invisible: clean logic, dat
 
 ### LeetCode
 
-Live cards from [`bhXAiLt1s5`](https://leetcode.com/u/bhXAiLt1s5/) — currently **100** problems (**73** easy · **23** medium · **4** hard), mostly **Python3**, plus Java and C.
+Live cards from [`bhXAiLt1s5`](https://leetcode.com/u/bhXAiLt1s5/) — problems solved mostly in **Python3**, plus Java and C.
 
 <div align="center">
   <a href="https://leetcode.com/u/bhXAiLt1s5/">
