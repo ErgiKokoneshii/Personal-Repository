@@ -1,20 +1,78 @@
-## Hi there 👋, Welcome
+<div align="center">
+  <img src="./assets/banner.svg" alt="Ergi Kokoneshi — CS & AI student at Western Balkans University and 42 Tirana" width="100%" />
+  <br />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00BABC&center=true&vCenter=true&width=640&lines=Final-year+CS+%26+AI+student;42+Tirana+Common+Core;Aspiring+game+developer;C+%7C+Java+%7C+Python+%7C+algorithms">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00BABC&center=true&vCenter=true&width=640&lines=Final-year+CS+%26+AI+student;42+Tirana+Common+Core;Aspiring+game+developer;C+%7C+Java+%7C+Python+%7C+algorithms" alt="Typing headline" />
+  </a>
+  <br />
+  <a href="https://github.com/ErgiKokoneshii"><img src="https://img.shields.io/badge/GitHub-ErgiKokoneshii-00babc?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/bhXAiLt1s5/"><img src="https://img.shields.io/badge/LeetCode-100_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/ergi-kokoneshi-36a939281"><img src="https://img.shields.io/badge/LinkedIn-Ergi_Kokoneshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ergikokoneshi@gmail.com"><img src="https://img.shields.io/badge/Email-ergikokoneshi%40gmail.com-7cf0d4?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
+</div>
 
-Hey! My name's Ergi and I study at Western Balkans University on the CompSci & AI program.
-I also am a Common Core Student of the 42 Network. I have finished the C Piscine in the 42 Tirana
-campus, where I also deepen my knowledge about Computer Science even further.
+---
 
-I'm interested in Coding but this is only the tip of the iceberg.
-I dream to become a Game Developer in the future.
-Currently, I'm learning C and I aim to incorporate the logic I built at 42 at every project I work on.
-Aside from C, I mostly use Java and am able to utilize the Java Springboot framework.
-I am willing to work and learn on projects that are to connected to my fields of interest.
+### About
 
-- 👯 I’m looking to collaborate on whatever projects I'm needed
-- 📫 How to reach me:<br>
-  email - [ErgiKokoneshi](ergikokoneshi@gmail.com)<br>
-  linkedin - <a href="https://www.linkedin.com/in/ergi-kokoneshi-36a939281" target="_blank">Ergi Kokoneshi</a>
-<!--
-**ErgiKokoneshi/ErgiKokoneshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey — I’m **Ergi**, based in Tirana. I’m in my final year of **Computer Science & AI** at **Western Balkans University** and a **Common Core** student of the **42 Network** at **42 Tirana** (C Piscine completed).
 
--->
+I care about the part of programming that is usually invisible: clean logic, data structures, systems, and the discipline I picked up at 42. Game development is the long-term target. Until then I’m stacking C, Java (including Spring Boot), Python, Linux, MySQL, networking, and algorithms — then using them on real projects.
+
+- 🔭 Final year CS & AI · Common Core at 42 Tirana
+- 🎮 Aiming at game development without skipping the computer-science foundation
+- 🤝 Open to collaborate on systems, algorithms, Java/Spring, C, and game-adjacent experiments
+- 📫 [ergikokoneshi@gmail.com](mailto:ergikokoneshi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ergi-kokoneshi-36a939281)
+
+---
+
+### Education & training
+
+| When | What |
+| --- | --- |
+| 2024.10 → present | **Computer Science & AI** — Western Balkans University, Tirana · EQF 6. Programming, algorithms, databases, OS, ML/NLP, networks, cybersecurity, web, cloud, professional practice. |
+| 2026.05 → present | **Common Core** — 42 Tirana. C & Python, algorithms, secure architecture, networks, sysadmin, Docker, peer learning. |
+| 2026.06.19–21 | **Junction X Tirana** hackathon. 48-hour prototype with a multidisciplinary team, mentors, and a judged demo. |
+| 2024.05.23 | **C2 English** — Cambridge Advanced English |
+
+---
+
+### LeetCode
+
+Live cards from [`bhXAiLt1s5`](https://leetcode.com/u/bhXAiLt1s5/) — currently **100** problems (**73** easy · **23** medium · **4** hard), mostly **Python3**, plus Java and C.
+
+<div align="center">
+  <a href="https://leetcode.com/u/bhXAiLt1s5/">
+    <img src="https://leetcard.jacoblin.cool/bhXAiLt1s5?theme=dark&font=Mulish&ext=heatmap" alt="LeetCode stats and heatmap for bhXAiLt1s5" />
+  </a>
+  <br />
+  <img src="https://leetcard.jacoblin.cool/bhXAiLt1s5?theme=nord&font=Mulish&ext=activity" alt="LeetCode activity card" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ErgiKokoneshii&show_icons=true&theme=radical&hide_border=true&bg_color=071014&title_color=00babc&icon_color=7cf0d4&text_color=eef8f6" alt="GitHub stats" width="49%" />
+</div>
+
+---
+
+### Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,spring,linux,mysql,html,css,git,docker" alt="C, Java, Python, Spring, Linux, MySQL, HTML, CSS, Git, Docker" />
+</p>
+
+`C` · `Java` · `Spring Boot` · `Python` · `DSA` · `Linux` · `MySQL` · `Networking` · `Virtual machines` · `Web fundamentals` · `Peer review` · `Teamwork`
+
+**Languages:** Albanian (native) · English (C2)
+
+---
+
+### Work
+
+**Advertising copywriter** — Fiverr · 2024.08.16 – 2024.10.01 · Tirana  
+Remote slogans and product copy for marketing sites.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=ErgiKokoneshii&theme=radical&hide_border=true&background=071014&ring=00babc&fire=7cf0d4&currStreakLabel=00babc" alt="GitHub streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErgiKokoneshii&layout=compact&theme=radical&hide_border=true&bg_color=071014&title_color=00babc&text_color=eef8f6" alt="Top languages" />
+</div>
