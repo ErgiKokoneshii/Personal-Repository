@@ -17,6 +17,7 @@
 
 html {
   scroll-behavior: smooth;
+  scroll-padding-top: 72px; /* keep section titles clear of the sticky nav */
 }
 
 body {
@@ -265,6 +266,10 @@ h2 {
   overflow: hidden;
 }
 
+.ring-wrap circle[data-ring] {
+  transition: stroke-dashoffset 1.2s ease;
+}
+
 .fill {
   height: 100%;
   width: 0;
@@ -304,9 +309,15 @@ footer {
   .stats,
   .grid-2,
   .leetcode,
-  .cards,
-  .nav {
+  .cards {
     grid-template-columns: 1fr;
+  }
+
+  .nav {
+    flex-wrap: wrap;
+  }
+
+  .nav-links {
     flex-wrap: wrap;
   }
 

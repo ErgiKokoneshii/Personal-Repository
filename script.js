@@ -45,23 +45,34 @@ function render(stats) {
 }
 
 async function loadLeetCode() {
+  // Free Render hosting can cold-start slowly; give up after 6s and use the fallback.
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), 6000);
   try {
+    const base = "https://alfa-leetcode-api.onrender.com/bhXAiLt1s5";
     const [profile, solved] = await Promise.all([
-      fetch("https://alfa-leetcode-api.onrender.com/bhXAiLt1s5"),
-      fetch("https://alfa-leetcode-api.onrender.com/bhXAiLt1s5/solved"),
+      fetch(base, { signal: ctrl.signal }),
+      fetch(`${base}/solved`, { signal: ctrl.signal }),
     ]);
     if (!profile.ok || !solved.ok) throw new Error("api");
-    const profileJson = await profile.json();
-    const solvedJson = await solved.json();
-    render({
-      ranking: profileJson.ranking,
-      solvedProblem: solvedJson.solvedProblem,
-      easySolved: solvedJson.easySolved,
-      mediumSolved: solvedJson.mediumSolved,
-      hardSolved: solvedJson.hardSolved,
-    });
+    const p = await profile.json();
+    const s = await solved.json();
+    const stats = {
+      ranking: p.ranking,
+      solvedProblem: s.solvedProblem,
+      easySolved: s.easySolved,
+      mediumSolved: s.mediumSolved,
+      hardSolved: s.hardSolved,
+    };
+    // Reject partial/malformed responses (would otherwise render NaN or divide by 0)
+    if (!Object.values(stats).every(Number.isFinite) || stats.solvedProblem <= 0) {
+      throw new Error("bad data");
+    }
+    render(stats);
   } catch {
     render(FALLBACK);
+  } finally {
+    clearTimeout(timer);
   }
 }
 
